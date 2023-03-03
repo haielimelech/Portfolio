@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+  }
+  
 section {
     background-color: white;
 }
