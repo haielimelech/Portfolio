@@ -187,6 +187,7 @@ a{
         display: none;
         background-color: #2b2c38;
         margin: 0px;
+        width: auto
     }
     ul.show{
         display: block;
@@ -196,6 +197,10 @@ a{
         display: flex;
         flex-direction: column-reverse;
         background-color: #2b2c38;
+    }
+    li {
+        text-decoration: none;
+        font-size: 20px;
     }
 
     .logo{
@@ -228,7 +233,7 @@ a{
         margin: 0;
     }
     h2{
-        font-size: 27px;
+        font-size: 30px;
     }
     
     p{
@@ -267,6 +272,11 @@ a{
         flex-direction: column;
         justify-content: space-around;
         padding: 50px;
+    }
+    .aboutMe{
+        display: flex;
+        justify-content: center;
+        text-align: center;
     }
     
     .sub-section-alternativ {
