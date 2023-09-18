@@ -182,6 +182,8 @@ a{
         font-size: 30px;
         margin-top: 8px;
         margin-bottom: 8px;
+        margin-right: 2px;
+        padding: 0;
         align-self: flex-end;
     }
     ul{
