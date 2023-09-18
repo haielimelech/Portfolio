@@ -180,7 +180,8 @@ a{
         background-color: transparent;
         color: white;
         font-size: 30px;
-        margin: 5px;
+        margin-top: 8px;
+        margin-bottom: 8px;
         align-self: flex-end;
     }
     ul{
